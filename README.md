@@ -7,6 +7,8 @@ YEAR: 2025-2029
 
 I aspire to learn about how computers function at core level and performs tremendous varieties of tasks encompassing possibly every engineering discipline.
 
+Take the Digital Literacy Awareness Quiz: https://forms.gle/GBsVwtMoXZKyutGE7
+
 <!--
 **sujal-saha/sujal-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
