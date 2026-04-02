@@ -1,6 +1,8 @@
 ## Hi there 👋
 NAME:	SUJAL SAHA
+
 PROGRAM & BRANCH: BTECH - Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+
 YEAR: 2025-2029
 
 I aspire to learn about how computers function at core level and performs tremendous varieties of tasks encompassing possibly every engineering discipline.
